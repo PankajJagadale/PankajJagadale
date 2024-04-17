@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PankajJagadale
 - 👀 I’m interested in Coding. Python and C are well known language to me.
 - 🌱 I’m currently learning FY CSE in AISSMS IOIT Pune
-- 
 
 <!---
 PankajJagadale/PankajJagadale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
