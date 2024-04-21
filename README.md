@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PankajJagadale
-- 👀 I’m interested in Coding. Python and C are well known language to me.
+- 👀 I’m interested in Coding. Python and C are well known languages to me.
 - 🌱 I’m currently learning FY CSE in AISSMS IOIT Pune
 
 <!---
